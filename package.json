@@ -1,0 +1,14 @@
+{
+  "name": "vsamsung",
+  "version": "1.0.0",
+  "description": "vandana samsumg",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "medium-zoom": "^1.0.6"
+  }
+}
